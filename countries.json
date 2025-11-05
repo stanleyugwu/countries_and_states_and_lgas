@@ -18,7 +18,8 @@
         "Umuahia North",
         "Umuahia South",
         "Umu Nneochi"
-      ]
+      ],
+      "cities": []
     },
     "Adamawa": {
       "lgas": [
@@ -42,7 +43,8 @@
         "Toungo",
         "Yola North",
         "Yola South"
-      ]
+      ],
+      "cities": []
     },
     "Akwa Ibom": {
       "lgas": [
@@ -76,7 +78,8 @@
         "Uruan",
         "Urue-Offong/Oruko",
         "Uyo"
-      ]
+      ],
+      "cities": []
     },
     "Anambra": {
       "lgas": [
@@ -100,7 +103,8 @@
         "Orumba North",
         "Orumba South",
         "Oyi"
-      ]
+      ],
+      "cities": []
     },
     "Bauchi": {
       "lgas": [
@@ -123,7 +127,8 @@
         "Toro",
         "Warji",
         "Zaki"
-      ]
+      ],
+      "cities": []
     },
     "Bayelsa": {
       "lgas": [
@@ -134,7 +139,8 @@
         "Sagbama",
         "Southern Ijaw",
         "Yenagoa"
-      ]
+      ],
+      "cities": []
     },
     "Benue": {
       "lgas": [
@@ -160,7 +166,8 @@
         "Ukum",
         "Ushongo",
         "Vandeikya"
-      ]
+      ],
+      "cities": []
     },
     "Borno": {
       "lgas": [
@@ -190,7 +197,8 @@
         "Ngala",
         "Nganzai",
         "Shani"
-      ]
+      ],
+      "cities": []
     },
     "Cross River": {
       "lgas": [
@@ -211,7 +219,8 @@
         "Ogoja",
         "Yakuur",
         "Yala"
-      ]
+      ],
+      "cities": []
     },
     "Delta": {
       "lgas": [
@@ -239,7 +248,8 @@
         "Warri North",
         "Warri South",
         "Warri South West"
-      ]
+      ],
+      "cities": []
     },
     "Ebonyi": {
       "lgas": [
@@ -255,7 +265,8 @@
         "Ohaozara",
         "Ohaukwu",
         "Onicha"
-      ]
+      ],
+      "cities": []
     },
     "Edo": {
       "lgas": [
@@ -276,7 +287,8 @@
         "Owan East",
         "Owan West",
         "Uhunmwonde"
-      ]
+      ],
+      "cities": []
     },
     "Ekiti": {
       "lgas": [
@@ -295,7 +307,8 @@
         "Ise/Orun",
         "Moba",
         "Oye"
-      ]
+      ],
+      "cities": []
     },
     "Enugu": {
       "lgas": [
@@ -315,6 +328,54 @@
         "Udenu",
         "Udi",
         "Uzo Uwani"
+      ],
+      "cities": [
+        "Abakpa",
+        "Agbani Road Area",
+        "Akwuke",
+        "Abakiliki Road",
+        "Akwuke Awkunanaw",
+        "Amechi",
+        "Asata",
+        "Awkunanaw",
+        "Coal Camp",
+        "Ede-Oballa",
+        "Eha Alumona",
+        "Emene",
+        "Enugu",
+        "New Haven",
+        "Nsukka",
+        "GRA",
+        "Imole",
+        "Independence Layout",
+        "Independence Layout Extension",
+        "Ibagwa Ani",
+        "Iva Valley",
+        "Lejja",
+        "Maryland",
+        "Maryland South",
+        "Ngwo (urban fringe)",
+        "Nsukka Town",
+        "Obiagu",
+        "Obimo",
+        "Obukpa",
+        "Obukpa Ogurugu",
+        "Ogbete Market fringe",
+        "Ogui",
+        "Okpuje",
+        "Opi",
+        "Opi Agu",
+        "Opi-Nsukka Extension",
+        "Orba",
+        "Railway Quarters",
+        "Trans-Ekulu",
+        "Ugwuaji",
+        "Ugwuaji Amechi",
+        "Ugwuaji Awkunanaw",
+        "Ugwuaji Nike",
+        "Uwani",
+        "University of Nigeria Nsukka (UNN area)",
+        "Ihe/Owerre"
       ]
     },
     "FCT": {
@@ -324,6 +385,87 @@
         "Kuje",
         "Kwali",
         "Municipal Area Council"
+      ],
+      "cities": [
+        "Airport",
+        "Apo Dutse",
+        "Apo Primary",
+        "Apo mechanic",
+        "Apo resettlement",
+        "Area 1",
+        "Area 10",
+        "Area 11",
+        "Area 2",
+        "Area 3",
+        "Area 7",
+        "Area 8",
+        "Ashara",
+        "Asokoro",
+        "Asokoro Extension",
+        "AYA",
+        "Central Business District",
+        "Chibiri",
+        "Dabi",
+        "Dei-Dei",
+        "Durumi",
+        "Dutse",
+        "Sunny Vale",
+        "Sabo Lugbe",
+        "Galadimawa District",
+        "Garki",
+        "Game Village",
+        "Garki 2",
+        "Gaube",
+        "Gidan Kwali",
+        "Gomani",
+        "Gudun-Bassa",
+        "Gudun-Karya",
+        "Guzape",
+        "Gwarinpa",
+        "Idu Mbora",
+        "Idu Industrial Area",
+        "Jabi",
+        "Jahi",
+        "Kabusa",
+        "Kado",
+        "Karu",
+        "Karmo",
+        "Karmo District",
+        "Karsana District",
+        "Katampe",
+        "Katampe Extension",
+        "Katampe main",
+        "Kaur district",
+        "Kilankwa",
+        "Kugbo",
+        "Kubwa",
+        "Kubwa District",
+        "Kuje",
+        "Kuje Town",
+        "Kundu",
+        "Kundu Wako",
+        "Kurudu district",
+        "Kutara",
+        "Kwaku",
+        "Life Camp",
+        "Lokogoma",
+        "Lugbe",
+        "Mabushi",
+        "Maitama",
+        "Mararaba",
+        "Mpape",
+        "Nyanya",
+        "Orozo District",
+        "Rubochi",
+        "Sheda",
+        "Tungan Maje",
+        "Utako",
+        "Wumbe",
+        "Wuse",
+        "Wuse 1",
+        "Wuse 2",
+        "Wuye",
+        "Yebu"
       ]
     },
     "Gombe": {
@@ -338,7 +480,8 @@
         "Nafada",
         "Shongom",
         "Yamaltu/Deba"
-      ]
+      ],
+      "cities": []
     },
     "Imo": {
       "lgas": [
@@ -368,7 +511,8 @@
         "Owerri North",
         "Owerri West",
         "Unuimo"
-      ]
+      ],
+      "cities": []
     },
     "Jigawa": {
       "lgas": [
@@ -398,7 +542,8 @@
         "Sule Tankarkar",
         "Taura",
         "Yankwashi"
-      ]
+      ],
+      "cities": []
     },
     "Kaduna": {
       "lgas": [
@@ -424,7 +569,8 @@
         "Soba",
         "Zangon Kataf",
         "Zaria"
-      ]
+      ],
+      "cities": []
     },
     "Kano": {
       "lgas": [
@@ -471,7 +617,8 @@
         "Ungogo",
         "Warawa",
         "Wudil"
-      ]
+      ],
+      "cities": []
     },
     "Katsina": {
       "lgas": [
@@ -508,7 +655,8 @@
         "Safana",
         "Sandamu",
         "Zango"
-      ]
+      ],
+      "cities": []
     },
     "Kebbi": {
       "lgas": [
@@ -532,7 +680,8 @@
         "Wasagu/Danko",
         "Yauri",
         "Zuru"
-      ]
+      ],
+      "cities": []
     },
     "Kogi": {
       "lgas": [
@@ -556,7 +705,8 @@
         "Omala",
         "Yagba East",
         "Yagba West"
-      ]
+      ],
+      "cities": []
     },
     "Kwara": {
       "lgas": [
@@ -575,7 +725,8 @@
         "Oke Ero",
         "Oyun",
         "Pategi"
-      ]
+      ],
+      "cities": []
     },
     "Lagos": {
       "lgas": [
@@ -598,6 +749,207 @@
         "Oshodi-Isolo",
         "Shomolu",
         "Surulere"
+      ],
+      "cities": [
+        "Abijo",
+        "Abule-Ado",
+        "Abule-Egba",
+        "Abule-Egba (part)",
+        "Abule-Ijesha",
+        "Abule Okuta",
+        "Abule-Oja",
+        "Adeniran Ogunsanya",
+        "Adeniyi Jones",
+        "Adekunle",
+        "Adekunle Village",
+        "Agbado",
+        "Agbado Oke-Odo",
+        "Agboju",
+        "Agbotikuyo",
+        "Agboyi",
+        "Agidingbi",
+        "Agiliti",
+        "Aguda",
+        "Ajah",
+        "Ajangbadi",
+        "Ajara",
+        "Ajara-Vetho",
+        "Ajegunle",
+        "Ajegunle (Agege side)",
+        "Ajegunle (Apapa side)",
+        "Ajido",
+        "Akerele",
+        "Akoka",
+        "Akowonjo",
+        "Alaba International Market",
+        "Alade Market Area",
+        "Alagomeji",
+        "Alakija",
+        "Alapere (extension)",
+        "Alausa",
+        "Allen Avenue",
+        "Amukoko",
+        "Apapa Dockyard",
+        "Apapa GRA",
+        "Aradagun",
+        "Awoyaya",
+        "Ayobo",
+        "Ayetoro",
+        "Badagry Town",
+        "Bajulaiye",
+        "Banana Island",
+        "Bariga",
+        "Baruwa",
+        "Bogije",
+        "Bode Thomas",
+        "Bamgbose",
+        "Boundary",
+        "Boundary (Apapa end)",
+        "Burma Road",
+        "Cardoso",
+        "Coker",
+        "Chevron Drive Area",
+        "Computer Village",
+        "Creek Road",
+        "Daleko",
+        "Dopemu",
+        "Dopemu (border area)",
+        "Ebute Ero",
+        "Ebute Metta",
+        "Egbeda",
+        "Egbeda Housing Estate",
+        "Epe Town",
+        "Eleko",
+        "Eputu",
+        "Festac Town",
+        "Fola Agoro",
+        "Gbagada Phase 1",
+        "Gbagada Phase 2",
+        "Herbert Macaulay Way Area",
+        "Ibafon",
+        "Iba",
+        "Ibereko",
+        "Ibeju Town",
+        "Ibeshe",
+        "Idado",
+        "Idi Araba",
+        "Idimu",
+        "Idumota",
+        "Igando-Oloja",
+        "Igbobi",
+        "Ijankin",
+        "Orile-Iganmu",
+        "Ijawoye",
+        "Ijegun",
+        "Ikoga",
+        "Ikosi",
+        "Ikotun",
+        "Ikoyi",
+        "Ikeja City Mall Area",
+        "Ikeja GRA",
+        "Ilaje",
+        "Ikeja",
+        "Ikorodu",
+        "Ilasan",
+        "Ilupeju",
+        "Ipaja",
+        "Isheri-Olowora",
+        "Isolo",
+        "Isolo Road Axis",
+        "Itire",
+        "Itoikin",
+        "Iwaya",
+        "Iworo",
+        "Iworo-Ajido",
+        "Jakande Estate",
+        "Jibowu",
+        "Kakawa",
+        "Ketu",
+        "Kirikiri",
+        "Lakowe",
+        "Lafiaji",
+        "LASU (Iba area)",
+        "Lawanson",
+        "Lekki Free Trade Zone Area",
+        "Lekki Phase 1",
+        "Liverpool",
+        "LUTH (Idi-Araba side)",
+        "Magbon-Alade",
+        "Magodo Phase 1",
+        "Magodo Phase 2",
+        "Maidan",
+        "Makoko",
+        "Mangoro",
+        "Marina",
+        "Maroko",
+        "Maryland",
+        "Meiran",
+        "Mile 12",
+        "Mile 2",
+        "Mowo",
+        "Mulero",
+        "Mushin Town",
+        "Navy Town",
+        "Obafemi Awolowo Way",
+        "Obalende",
+        "Obawole",
+        "Odonla",
+        "Ogba",
+        "Ogogoro",
+        "Ogudu",
+        "Ojo Road axis",
+        "Ojo Town",
+        "Ojokoro",
+        "Ojota",
+        "Ojuelegba",
+        "Oke-Ira",
+        "Onikan",
+        "Odun-Ade",
+        "Opebi",
+        "Okokomaiko",
+        "Okokomaiko (border side)",
+        "Okota",
+        "Olodi Apapa",
+        "Omole Phase 1",
+        "Onike",
+        "Onipanu",
+        "Oniru",
+        "Oriba",
+        "Orile Agege",
+        "Orimedu",
+        "Orishigun",
+        "Oshodi",
+        "Oyingbo",
+        "Oworonshoki",
+        "Oyewole",
+        "Papa Ajao",
+        "Palm Avenue",
+        "Pelewura",
+        "Point Road",
+        "Posukoh",
+        "Pota",
+        "Satellite Town",
+        "Sangotedo",
+        "Sangotedo (shared with Eti-Osa)",
+        "Seme Border",
+        "Shangisha",
+        "Shasha",
+        "Shitta",
+        "Shogunle",
+        "Shomolu Town",
+        "Stadium Area",
+        "Surulere Town",
+        "Tabon-Tabon",
+        "Temidire",
+        "Tejuosho",
+        "Tincan Island",
+        "Tinubu Square Area",
+        "Toyin Street Axis",
+        "Trade Fair Complex",
+        "Victoria Island",
+        "Volks",
+        "Warehouse Road Area",
+        "Yaba"
       ]
     },
     "Nasarawa": {
@@ -614,7 +966,8 @@
         "Obi",
         "Toto",
         "Wamba"
-      ]
+      ],
+      "cities": []
     },
     "Niger": {
       "lgas": [
@@ -642,7 +995,8 @@
         "Suleja",
         "Tafa",
         "Wushishi"
-      ]
+      ],
+      "cities": []
     },
     "Ogun": {
       "lgas": [
@@ -665,7 +1019,8 @@
         "Ogun Waterside",
         "Remo North",
         "Shagamu"
-      ]
+      ],
+      "cities": []
     },
     "Ondo": {
       "lgas": [
@@ -686,7 +1041,8 @@
         "Ondo West",
         "Ose",
         "Owo"
-      ]
+      ],
+      "cities": []
     },
     "Osun": {
       "lgas": [
@@ -719,7 +1075,8 @@
         "Oriade",
         "Orolu",
         "Osogbo"
-      ]
+      ],
+      "cities": []
     },
     "Oyo": {
       "lgas": [
@@ -755,7 +1112,8 @@
         "Saki East",
         "Saki West",
         "Surulere"
-      ]
+      ],
+      "cities": []
     },
     "Plateau": {
       "lgas": [
@@ -775,7 +1133,8 @@
         "Riyom",
         "Shendam",
         "Wase"
-      ]
+      ],
+      "cities": []
     },
     "Rivers": {
       "lgas": [
@@ -801,6 +1160,50 @@
         "Oyigbo",
         "Port Harcourt",
         "Tai"
+      ],
+      "cities": [
+        "Agbonchia",
+        "Akpajo",
+        "Akpajo Refinery Area",
+        "Alakahia (UNIPORT area)",
+        "Alesa",
+        "Alebro",
+        "Aleto",
+        "Amadi-Ama",
+        "Bundu Waterfront",
+        "Choba",
+        "D-Line",
+        "Diobu",
+        "Eagle Island",
+        "Ebubu",
+        "Eteo",
+        "Nchia",
+        "Odido",
+        "Ogale",
+        "Ogale-Nchia",
+        "Okomoko",
+        "Okerewa",
+        "Old GRA",
+        "Onne",
+        "Oroworukwo",
+        "Port Harcourt Township",
+        "Rukpokwu",
+        "Rumuapu",
+        "Rumueme",
+        "Rumuibekwe",
+        "Rumuigbo",
+        "Rumuodara",
+        "Rumuodomaya",
+        "Rumuodomaya Housing Estate",
+        "Rumuokoro",
+        "Rumuokuta",
+        "Rumuola",
+        "Rumuomasi",
+        "Rumuosi",
+        "Rumuokwurusi",
+        "Rumunduru",
+        "Rumuwoji",
+        "Trans-Amadi"
       ]
     },
     "Sokoto": {
@@ -827,7 +1230,8 @@
         "Wamako",
         "Wurno",
         "Yabo"
-      ]
+      ],
+      "cities": []
     },
     "Taraba": {
       "lgas": [
@@ -846,7 +1250,8 @@
         "Wukari",
         "Yorro",
         "Zing"
-      ]
+      ],
+      "cities": []
     },
     "Yobe": {
       "lgas": [
@@ -866,7 +1271,8 @@
         "Tarmuwa",
         "Yunusari",
         "Yusufari"
-      ]
+      ],
+      "cities": []
     },
     "Zamfara": {
       "lgas": [
@@ -883,7 +1289,8 @@
         "Talata Mafara",
         "Chafe",
         "Zurmi"
-      ]
+      ],
+      "cities": []
     }
   }
 }
